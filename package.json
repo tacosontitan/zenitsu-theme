@@ -3,6 +3,7 @@
     "displayName": "Zenitsu Theme",
     "description": "A dark but vibrant theme inspired by Zenitsu from Demon Slayer.",
     "version": "0.0.1",
+    "icon": "images/zenitsu.png",
     "engines": {
         "vscode": "^1.64.0"
     },
