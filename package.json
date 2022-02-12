@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "icon": "images/zenitsu.png",
     "galleryBanner.color": "faef7c",
+    "repository": "https://github.com/tacosontitan/zenitsu-theme",
     "engines": {
         "vscode": "^1.64.0"
     },
