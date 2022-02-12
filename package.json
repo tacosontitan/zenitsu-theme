@@ -4,7 +4,10 @@
     "description": "A dark but vibrant theme inspired by Zenitsu from Demon Slayer.",
     "version": "0.0.1",
     "icon": "images/zenitsu.png",
-    "galleryBanner.color": "faef7c",
+    "galleryBanner": {
+        "color": "#faef7c",
+        "theme": "dark"
+    },
     "repository": "https://github.com/tacosontitan/zenitsu-theme",
     "engines": {
         "vscode": "^1.64.0"
