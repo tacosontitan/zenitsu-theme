@@ -4,13 +4,15 @@
     "description": "A dark but vibrant theme inspired by Zenitsu from Demon Slayer.",
     "version": "0.0.1",
     "icon": "images/zenitsu.png",
+    "license": "The license can be found in the file named LICENSE.",
+    "homepage": "https://github.com/tacosontitan/zenitsu-theme",
     "galleryBanner": {
         "color": "#faef7c",
         "theme": "dark"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tacosontitan/zenitsu-theme"
+        "url": "https://github.com/tacosontitan/zenitsu-theme.git"
     },
     "engines": {
         "vscode": "^1.64.0"
