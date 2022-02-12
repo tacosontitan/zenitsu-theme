@@ -1,0 +1,21 @@
+{
+    "name": "zenitsu-theme",
+    "displayName": "Zenitsu Theme",
+    "description": "A dark but vibrant theme inspired by Zenitsu from Demon Slayer.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zenitsu Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zenitsu Theme-color-theme.json"
+            }
+        ]
+    }
+}
