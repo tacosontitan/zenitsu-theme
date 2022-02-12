@@ -8,7 +8,10 @@
         "color": "#faef7c",
         "theme": "dark"
     },
-    "repository": "https://github.com/tacosontitan/zenitsu-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tacosontitan/zenitsu-theme"
+    },
     "engines": {
         "vscode": "^1.64.0"
     },
