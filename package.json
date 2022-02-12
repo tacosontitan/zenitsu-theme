@@ -4,6 +4,7 @@
     "description": "A dark but vibrant theme inspired by Zenitsu from Demon Slayer.",
     "version": "0.0.1",
     "icon": "images/zenitsu.png",
+    "galleryBanner.color": "faef7c",
     "engines": {
         "vscode": "^1.64.0"
     },
